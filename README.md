@@ -1,4 +1,4 @@
-# Visual Pinball Engine - HDRP Package
+# Visual Pinball Engine - HDRP Assets
 
 *placeholder*
 
