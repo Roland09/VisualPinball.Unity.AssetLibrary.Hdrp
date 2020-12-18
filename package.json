@@ -3,6 +3,7 @@
   "version": "0.0.1-preview.0",
   "displayName": "Visual Pinball Engine (HDRP Assets)",
   "description": "Assets for the High Definition Render Pipeline.",
+  "keywords": [ "Unity", "Assets", "HDRP" ],
   "unity": "2020.2",
   "unityRelease": "0b12",
   "dependencies": {
