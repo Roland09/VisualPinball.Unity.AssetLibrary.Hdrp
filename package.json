@@ -5,9 +5,9 @@
   "description": "Assets for the High Definition Render Pipeline.",
   "keywords": [ "Unity", "Assets", "HDRP" ],
   "unity": "2020.2",
-  "unityRelease": "0b12",
+  "unityRelease": "0f1",
   "dependencies": {
-    "org.visualpinball.unity.assetlibrary": "0.0.1-preview.3"
+    "org.visualpinball.unity.assetlibrary": "0.0.1-preview.4"
   },
   "author": "freezy <freezy@vpdb.io>",
   "contributors": [
